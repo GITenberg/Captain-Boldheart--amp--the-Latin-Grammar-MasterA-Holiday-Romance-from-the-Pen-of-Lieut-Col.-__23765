@@ -1,0 +1,42 @@
+_repo: Captain-Boldheart--amp--the-Latin-Grammar-MasterA-Holiday-Romance-from-the-Pen-of-Lieut-Col.-__23765
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pearse, Susan Beatrice
+    alias: Pearse, S. B. (Susan Beatrice)
+    gutenberg_agent_id: '25848'
+    url: http://www.gutenberg.org/2009/agents/25848
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Humorous stories'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: 'Captain Boldheart & the Latin-Grammar Master
+
+  A Holiday Romance from the Pen of Lieut-Col. Robin Redforth, aged 9'
+url: http://www.gutenberg.org/ebooks/23765
