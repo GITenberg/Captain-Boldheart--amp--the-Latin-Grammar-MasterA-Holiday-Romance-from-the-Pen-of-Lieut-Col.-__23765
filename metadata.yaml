@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23765#Captain-Boldheart--amp--the-Latin-Grammar-MasterA-Holiday-Romance-from-the-Pen-of-Lieut-Col.-_
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2007-12-07'
 gutenberg_type: Text
